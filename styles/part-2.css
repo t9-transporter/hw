@@ -1,0 +1,34 @@
+.sct-two {
+    padding: 130px 200px 113px 200px;
+}
+
+.about {
+    padding-bottom: 191px;
+    padding-top: 17px;
+}
+
+.about-text {
+    text-align: start;
+    line-height: 1.5;
+}
+
+.about-content {
+    display: flex;
+    justify-content: center;
+    gap: 113px;
+}
+
+.about-sw {
+    position: relative;
+}
+
+.imac {
+    z-index: 0;
+    position: absolute;
+    left: 45px;
+    top: -45px;
+}
+
+.imac-bg {
+    z-index: 1;
+}
