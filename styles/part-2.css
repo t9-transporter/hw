@@ -1,5 +1,6 @@
 .sct-two {
     padding: 130px 200px 113px 200px;
+    background-color: #f8fafa;
 }
 
 .about {
@@ -32,3 +33,31 @@
 .imac-bg {
     z-index: 1;
 }
+
+.points {
+    margin-top: 80px;
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+}
+
+.point {
+    display: flex;
+    position: relative;
+}
+
+.point-2 {
+    position: absolute;
+    z-index: 0;
+}
+
+.point-1 {
+    z-index: 1;
+}
+
+.point-1:hover {
+    opacity: 0.2;
+}
+
+
+

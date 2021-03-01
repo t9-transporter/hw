@@ -6,6 +6,9 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    width: 1440px;
+    margin: auto;
+
 }
 
 .bd {
