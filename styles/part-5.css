@@ -1,0 +1,55 @@
+.sct-five {
+    padding: 120px 150px;
+}
+
+.team {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+    gap: 13px;
+}
+
+.team-1 {
+    position: relative;
+}
+
+.team-1-okno {
+    width: 336px;
+    height: 242px;
+    padding: 35px;
+    background-color: #6ff6eb;
+    position: absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    top:0;
+    margin: auto;
+    margin-top: 180px;
+    display: none;
+    text-align: left;
+}
+
+.team-1-okno::after {
+    content: ''; 
+    position: absolute;
+    left: 20px; bottom: 242px;
+    border: 10px solid transparent;
+    border-bottom: 10px solid #6ff6eb;
+}
+
+.team-1:hover .team-1-okno{
+    display:block;
+}
+
+.ui {
+    font-size: 15px;
+    color: #767070;
+    font-style: italic;
+}
+
+.team-contacts {
+    display: flex;
+    justify-content: left;
+    gap: 15px;
+    margin-top: 40px;
+}

@@ -52,7 +52,6 @@
 
 .serv-t {
     position: absolute;
-    bottom: 100px;
     text-align: start;
     padding-left: 66px;
     line-height: 1.5;
@@ -67,4 +66,12 @@
 .serv-i {
     z-index: 1;
     position: absolute;
+}
+
+.serv-t1 {
+    bottom: 100px;
+}
+
+.serv-t2 {
+    bottom: 50px;
 }
