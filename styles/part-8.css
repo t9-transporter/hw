@@ -1,0 +1,62 @@
+.sct-eight {
+    padding: 120px 150px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1)), url(../images/christmas_snow_trees-wide.png);
+}
+
+.contact-forms{
+    display: flex;
+    gap: 25px;
+}
+
+.contact-form-1, .contact-form-2 {
+    height: 461px;
+    background-color: #1f4258;
+    opacity: 0.7;
+}
+
+.contact-form-1 {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    padding: 35px;
+}
+
+.contact-form-2 {
+    width: 500px;
+}
+
+.field-1, .field-2 {
+    background: none;
+    color: white;
+    border: none;
+    border-bottom: 1px #ffffff solid;
+    padding-left: 35px;
+}
+
+.field-1 {
+    height: 60px;
+}
+
+.field-2 {
+    height: 120px;
+}
+
+.contact-btn {
+    margin-top: 30px;
+    background-color: #6eeee4;
+    border: none;
+    padding: 0;
+    height: 60px;
+    width: 50%;
+}
+
+.adress {
+    padding-top: 37px;
+    padding-left: 31px;
+    color: #ddd;
+    line-height: 1.5;
+}
+
+.map {
+    padding: 15px 22px;
+}

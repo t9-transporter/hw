@@ -1,0 +1,26 @@
+footer {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #262b2e;
+    color: white;
+}
+
+.footer-icon {
+    background-color: #3e4244;
+    width: 46px;
+    height: 41px;
+    padding: 10px;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+    margin-top: 18px;
+    margin-bottom: 43px;
+}
+
+
+.footer-icon:hover {
+    background-color: #6eeee3;
+}
