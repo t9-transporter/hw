@@ -1,5 +1,6 @@
 .sct-eight {
     padding: 120px 150px;
+    font-family: 'Raleway', sans-serif;
     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1)), url(../images/christmas_snow_trees-wide.png);
 }
 

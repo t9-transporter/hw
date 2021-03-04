@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 14" width="16" height="14">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f2da3b } 
+	</style>
+	<g id="Testimonial">
+		<g id="Group 11">
+			<g id="Star">
+				<path id="Shape 2" class="shp0" d="M7.68 0L10.21 4.4L15.36 5.35L11.78 9.01L12.43 14L7.68 11.87L2.93 14L3.58 9.01L0 5.35L5.15 4.4L7.68 0" />
+			</g>
+		</g>
+	</g>
+</svg>
